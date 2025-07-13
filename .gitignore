@@ -17,3 +17,6 @@
 filenames
 
 .DS_Store
+
+/config.mk
+/.localstack
